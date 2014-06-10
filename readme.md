@@ -1,6 +1,6 @@
-# lame-win
+# lame-osx
 
-Encode mp3 vbr file on Windows with <a href="http://www.rarewares.org/mp3-lame-bundle.php" target="_blank">LAME 3.98.4 for OSX 64 bits (Snow Leopard)</a>
+Encode mp3 vbr file on OSX with <a href="http://www.rarewares.org/mp3-lame-bundle.php" target="_blank">LAME 3.98.4 for OSX 64 bits (Snow Leopard)</a>
 
 No option, just best vbr quality
 
