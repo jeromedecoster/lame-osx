@@ -1,0 +1,10 @@
+{
+  "name": "lame-osx",
+  "version": "0.0.1",
+  "description": "Encode mp3 vbr file on OSX with LAME 3.98.4 for OSX 64 bits (Snow Leopard).",
+  "main": "index.js",
+  "repository": {
+    "url": "git@github.com:jeromedecoster/lame-osx.git"
+  },
+  "readme": "Encode mp3 vbr file on OSX with LAME 3.98.4 for OSX 64 bits (Snow Leopard)."
+}
